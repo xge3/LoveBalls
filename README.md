@@ -1,2 +1,2 @@
 # LoveBalls
-This is little simple game by Processing.
+This is a little simple game by Processing.
